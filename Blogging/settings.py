@@ -144,3 +144,7 @@ EMAIL_HOST_USER = 'ojugbelelateef2006@gmail.com'
 EMAIL_HOST_PASSWORD = 'yshhvvigaryqlabg'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
+
+
+
+WSGI_APPLICATION = 'vercel_app.wsgi.app'
